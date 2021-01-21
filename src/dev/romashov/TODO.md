@@ -1,0 +1,47 @@
+# Project Checklist
+### Unit 4: Iteration
+- [x] Contains no infinite loops.
+- [ ] Includes a return statement inside a loop.
+- [ ] Identifies if an integer is evenly divisible by another integer.
+- [ ] Identifies the individual digits in an integer.
+- [x] Determines a minimum or maximum value.
+- [x] Computes a sum, average, and mode.
+- [x] Uses a for loop.
+- [x] Contains no “off-by-one” errors.
+- [x] Uses nested iteration (i.e. loops within loops).
+- [x] Uses statement execution counts.
+### Unit 5: Writing Classes
+- [x] Uses only public classes.
+- [x] Uses only private attributes to encapsulate data.
+- [x] Uses only public constructors.
+- [x] Uses at least one public and at least one private method.
+- [x] Includes all necessary accessor and mutator methods.
+- [x] Includes a constructor with an object as one of its parameters.
+- [x] Includes a class with instance variables but no constructor.
+- [x] Includes Javadoc comments (i.e. /** */).
+- [x] Includes at least one precondition and one postcondition.
+- [x] Includes non-void methods.
+- [x] Includes at least one method that returns an object other than a String.
+- [ ] Includes a toString method and prints an object.
+- [x] Includes a void method other than the main method.
+- [x] Includes a static method other than the main method.
+- [x] Includes a method that alters a static variable in a different class.
+- [x] Uses the this keyword.
+- [x] Is reliable.
+- [x] Creates no legal issues nor intellectual property concerns.
+- [x] Benefits at least one society, economy, or culture.
+### Unit 6: Arrays
+- [x] Uses an array of primitive data.
+- [x] Uses an array of object references.
+- [x] Uses an initializer list to create an array.
+- [x] Uses iteration to traverse an array.
+- [x] Uses an enhanced for loop.
+- [x] Determines the minimum and maximum values in an array.
+- [x] Computes the sum, average, and mode of an array.
+- [x] Determines if at least one element of an array has a particular property.
+- [x] Determines if all elements of an array have a particular property.
+- [x] Accesses all consecutive pairs of elements in an array.
+- [x] Determines the presence or absence of duplicate elements.
+- [x] Determines the number of elements meeting specific criteria.
+- [x] Shifts elements of an array left or right.
+- [x] Reverses the order of the elements of an array.
