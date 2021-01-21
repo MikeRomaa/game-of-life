@@ -1,7 +1,4 @@
-package dev.romashov;
-
-import dev.romashov.helpers.Blueprints;
-import dev.romashov.helpers.Utils;
+package dev.romashov.gameOfLife;
 
 import javax.swing.*;
 import java.awt.*;

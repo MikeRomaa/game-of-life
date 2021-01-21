@@ -1,4 +1,4 @@
-package dev.romashov;
+package dev.romashov.gameOfLife;
 
 import java.util.ArrayList;
 

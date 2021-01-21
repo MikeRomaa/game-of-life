@@ -1,4 +1,4 @@
-package dev.romashov.helpers;
+package dev.romashov.gameOfLife;
 
 /**
  * Literally only here to check off all project requirements.
