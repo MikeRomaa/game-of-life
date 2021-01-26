@@ -1,9 +1,9 @@
 # Project Checklist
 ### Unit 4: Iteration
 - [x] Contains no infinite loops.
-- [ ] Includes a return statement inside a loop.
-- [ ] Identifies if an integer is evenly divisible by another integer.
-- [ ] Identifies the individual digits in an integer.
+- [x] Includes a return statement inside a loop.
+- [x] Identifies if an integer is evenly divisible by another integer.
+- [x] Identifies the individual digits in an integer.
 - [x] Determines a minimum or maximum value.
 - [x] Computes a sum, average, and mode.
 - [x] Uses a for loop.
@@ -22,7 +22,7 @@
 - [x] Includes at least one precondition and one postcondition.
 - [x] Includes non-void methods.
 - [x] Includes at least one method that returns an object other than a String.
-- [ ] Includes a toString method and prints an object.
+- [x] Includes a toString method and prints an object.
 - [x] Includes a void method other than the main method.
 - [x] Includes a static method other than the main method.
 - [x] Includes a method that alters a static variable in a different class.

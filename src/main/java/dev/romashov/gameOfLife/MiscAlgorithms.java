@@ -109,4 +109,12 @@ public class MiscAlgorithms {
             System.out.println("[" + arr[i - 1] + ", " + arr[i] + "]");
         }
     }
+
+    public static int digitAtIndex(int n, int i) {
+        return (n / (int) Math.pow(10, i)) % 10;
+    }
+
+    public static boolean isDivisible(int a, int b) {
+        return a % b == 0 || b % a == 0;
+    }
 }

@@ -32,4 +32,9 @@ public class Window extends JFrame {
         generation++;
         genCount.setText("Generation: " + generation);
     }
+
+    @Override
+    public String toString() {
+        return this.getTitle();
+    }
 }
